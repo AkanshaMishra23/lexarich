@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akansha Mishra</h1>
 <h3 align="center">A passionate UX designer and developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfPkcaNT3ob31fdQ9FTTSHDxGjJWPuZsBPn3QMKMEGA&s">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
 
 - 🔭 I recently worked on [Duty Central website UI UX and Frontend](https://www.dutycentral.in)
 
