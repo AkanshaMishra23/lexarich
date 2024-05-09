@@ -1,6 +1,8 @@
+![MasterHead](https://camo.githubusercontent.com/f68e1dadfdb6904f8320b8f20e1794d39efeb536fbe9b5d9891a64e5bb730b0a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
+
 <h1 align="center">Hi 👋, I'm Akansha Mishra</h1>
 <h3 align="center">A passionate UX designer and developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🔭 I recently worked on [Duty Central website UI UX and Frontend](https://www.dutycentral.in)
 
