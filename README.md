@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akansha Mishra</h1>
 <h3 align="center">A passionate UX designer and developer from India</h3>
 
-- 🔭 I recently worked on [Duty Central website UI UX and Frontend](dutycentral.in)
+- 🔭 I recently worked on [Duty Central website UI UX and Frontend](www.dutycentral.in)
 
 - 🌱 I’m currently learning **kafka and pytorch**
 
