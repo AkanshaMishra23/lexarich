@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akansha Mishra</h1>
 <h3 align="center">A passionate UX designer and developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-38.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfPkcaNT3ob31fdQ9FTTSHDxGjJWPuZsBPn3QMKMEGA&s">
 
 - 🔭 I recently worked on [Duty Central website UI UX and Frontend](https://www.dutycentral.in)
 
